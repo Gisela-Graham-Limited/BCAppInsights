@@ -2,6 +2,8 @@
 
 This repository contains the events (signals) that are sent from BC to Application Insights
 
+When new events are added by Micrsoft they will need to be added to events.json
+
 This repository must remain public so that the Azure Data Explorer Dashboards can include it in the base queries
 e.g.
 
